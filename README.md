@@ -1,2 +1,2 @@
 # hello-world
-огые фтщерук кузщышещкн
+Just another my project
